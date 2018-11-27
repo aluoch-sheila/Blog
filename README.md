@@ -2,7 +2,7 @@
 By Aluoch Sheila, 27/11/2018
 
 # Description
-Blog application is a programme where individuals can write thier blogs,be able to comment on them.It also gives users and writers an opportunity to sign up or sign in.
+Blog application is a programme where individuals can write thier blogs and be able to comment on them.It also gives users and writers an opportunity to sign up or sign in.
 
 # Specs of the program
 
